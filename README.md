@@ -1,3 +1,7 @@
+Group members:
+Nduba Jeremiah Shakubanza
+Matthews Mumba
+
 This project is a multi-page website that demonstrates the use of CSS3 styling, Flexbox, Grid, responsive design, and animations. The website has three pages:
 
 Home Page (index.html) – Includes a hero section, navigation bar, and Flexbox layout.
